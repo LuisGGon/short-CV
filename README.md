@@ -6,29 +6,13 @@
 
 ___
 
-## Example preview
 
-### English version
-
-With respect to English conventions (without age, address and picture).
-
-![English_CV](https://github.com/ArthurBernard/Arthur-CV-LaTeX/blob/master/pictures/Arthur_Bernard_CV_En.jpg)
-
-___
-
-### French version
-
-With respect to French conventions (with picture, address and age).
-
-![French_CV](https://github.com/ArthurBernard/Arthur-CV-LaTeX/blob/master/pictures/Arthur_Bernard_CV_Fr.jpg)
-
-___
 
 ## Customized colors
 
 The default theme color of CV is different kind of blue, but you can freely custom themes color, see below some non-exhaustive examples:
 
-![Colored_Examples](https://github.com/ArthurBernard/Arthur-CV-LaTeX/blob/master/pictures/Colored_examples.jpg)
+
 
 ### Green
 
